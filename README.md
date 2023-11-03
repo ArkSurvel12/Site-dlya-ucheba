@@ -1,11 +1,4 @@
 # my-site Arkadii Telkov
-<!DOCTYPE html
-PUBLIC"-//W3c//DTD HTML 
-4.01 Transitional//EN">
-<html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html;
-        charset="UTF-8">
         <title>Топовый сайт новичка</title>
         <style>
             body {
