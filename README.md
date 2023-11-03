@@ -1,8 +1,1 @@
-# my-site Arkadii Telkov
-        
-        <h1>Всем привет! Это мой первый сайт</h1>
-        <p>Думаю Виталий Журавляв мой учитель оценит)</p>
-
-
-    </body>
-</html>
+# my-site Arkadii Telkov    
